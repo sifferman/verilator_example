@@ -1,0 +1,4 @@
+
+-sverilog
+
+tb.sv

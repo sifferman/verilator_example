@@ -1,0 +1,39 @@
+$date
+	Fri Jan 12 12:23:02 2024
+$end
+
+$version
+	Synopsys VCS version Q-2020.03-SP2-6_Full64
+$end
+
+$timescale
+	1s
+$end
+
+$comment Csum: 1 5ea94ed79713d4f0 $end
+
+
+$scope module tb $end
+$var reg 32 ! a [31:0] $end
+$var reg 32 " b [31:0] $end
+$var reg 32 # c [31:0] $end
+$var reg 32 $ d [31:0] $end
+$var reg 1 % done $end
+
+$scope begin unnamed$$_0 $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0%
+b00000000000000000000000000000000 !
+b11111111111111111111111111111111 "
+bxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx #
+bzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz $
+$end
+#2
+1%

@@ -1,0 +1,9 @@
+
+# Verilator
+obj_dir
+
+# VCS
+ucli.key
+csrc
+simv
+simv.daidir
