@@ -1,0 +1,32 @@
+$date
+	Sun Feb  4 14:18:07 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var reg 32 ! a [31:0] $end
+$var reg 32 " b [31:0] $end
+$var reg 32 # c [31:0] $end
+$var reg 32 $ d [31:0] $end
+$var reg 1 % done $end
+$scope begin $unm_blk_1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+bz $
+bx #
+b11111111111111111111111111111111 "
+b0 !
+$end
+#2
+1%
