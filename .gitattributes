@@ -1,0 +1,7 @@
+
+# EOL
+*       text eol=lf
+
+# Verilator
+*.vlt   linguist-language=SystemVerilog
+*.f     linguist-language=Shell
