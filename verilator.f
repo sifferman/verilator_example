@@ -18,6 +18,8 @@ tb.sv
 --trace-fst
 // dump structs as human-readable format
 --trace-structs
+// remove extra TOP module
+--main-top-name "-"
 
 // all explicit Xs are replaced by a constant value determined at runtime
 --x-assign unique
